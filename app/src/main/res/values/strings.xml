@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Hello World!</string>
+    <string name="hello_intro">Hello World! I\'m Aaron. These sweet cows are from my in-law\'s farm in France. \n \n The word for cow in French is: la vache.</string>
+    <string name="button_text">Say Hello!</string>
+</resources>
