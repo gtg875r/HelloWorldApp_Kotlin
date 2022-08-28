@@ -15,9 +15,6 @@ The following **required** functionality is completed:
 * [X] Button displayed on screen
 * [X] Toast with message appears when button is pressed 
 
-The following **optional** features are implemented:
-
-* [ ] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough
 
@@ -26,13 +23,12 @@ Here's a walkthrough of implemented features:
 <img src='https://i.imgur.com/mlJ1vy0.gif' title='Kotlin: Hello World Walkthrough Video' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
-<!-- Recommended tools:
+GIF created with:
 [ScreenToGif](https://www.screentogif.com/) for Windows
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+After I initially created the app, I waited a day before returning to the file.  The app then was not properly displaying the Toast pop-up message.  After a bit of sleuthing, I realized that I needed to cold boot the emulator device and wipe the data.  After taking these steps the app functioned as expected again.
 
 ## License
 
